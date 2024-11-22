@@ -1,0 +1,25 @@
+/* App Title */
+"Water Tracker" = "Water Tracker";
+
+/* Units */
+"fl oz" = "fl oz";
+"%d fl oz" = "%d fl oz";
+"%.1f fl oz" = "%.1f fl oz";
+
+/* Main View */
+"of" = "of";
+"Add Water" = "Add Water";
+"Amount (fl oz)" = "Amount (fl oz)";
+"Add" = "Add";
+"Cancel" = "Cancel";
+"Reset Water Count" = "Reset Water Count";
+"Are you sure you want to reset your water count for today?" = "Are you sure you want to reset your water count for today?";
+"Reset" = "Reset";
+
+/* History View */
+"Water History" = "Water History";
+"Statistics" = "Statistics";
+"Daily Average" = "Daily Average";
+"Weekly Average" = "Weekly Average";
+"Last 7 Days" = "Last 7 Days";
+"History" = "History";

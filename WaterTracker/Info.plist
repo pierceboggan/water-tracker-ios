@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSHealthShareUsageDescription</key>
+    <string>Water Tracker needs access to read your water intake data from the Health app to keep your records in sync.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>Water Tracker needs access to save your water intake data to the Health app to keep your records in sync.</string>
+</dict>
+</plist>

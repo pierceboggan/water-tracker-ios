@@ -1,0 +1,25 @@
+/* App Title */
+"Water Tracker" = "Registro de Agua";
+
+/* Units */
+"fl oz" = "fl oz";
+"%d fl oz" = "%d fl oz";
+"%.1f fl oz" = "%.1f fl oz";
+
+/* Main View */
+"of" = "de";
+"Add Water" = "Agregar Agua";
+"Amount (fl oz)" = "Cantidad (fl oz)";
+"Add" = "Agregar";
+"Cancel" = "Cancelar";
+"Reset Water Count" = "Reiniciar Contador";
+"Are you sure you want to reset your water count for today?" = "¿Estás seguro de que quieres reiniciar tu contador de agua para hoy?";
+"Reset" = "Reiniciar";
+
+/* History View */
+"Water History" = "Historial de Agua";
+"Statistics" = "Estadísticas";
+"Daily Average" = "Promedio Diario";
+"Weekly Average" = "Promedio Semanal";
+"Last 7 Days" = "Últimos 7 Días";
+"History" = "Historial";
